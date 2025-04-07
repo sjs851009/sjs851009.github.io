@@ -1,6 +1,6 @@
 baseURL = 'https://KotlinCraftsman.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "KotlinCraftsman's Website"
 theme = ["my-theme"]
 publishDir = "docs"
 
