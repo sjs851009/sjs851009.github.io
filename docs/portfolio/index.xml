@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolio on KotlinCraftsman&#39;s Website</title>
-    <link>https://KotlinCraftsman.github.io/portfolio/</link>
-    <description>Recent content in Portfolio on KotlinCraftsman&#39;s Website</description>
+    <title>Portfolio on Junseok&#39;s Website</title>
+    <link>https://sjs851009.github.io/portfolio/</link>
+    <description>Recent content in Portfolio on Junseok&#39;s Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://KotlinCraftsman.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sjs851009.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
