@@ -1,6 +1,6 @@
-baseURL = 'https://KotlinCraftsman.github.io/'
+baseURL = 'https://sjs851009.github.io/'
 languageCode = 'en-us'
-title = "KotlinCraftsman's Website"
+title = "Junseok's Website"
 theme = ["my-theme"]
 publishDir = "docs"
 
