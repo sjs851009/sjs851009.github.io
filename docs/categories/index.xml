@@ -2,10 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Junseok&#39;s Website</title>
+<<<<<<< HEAD
     <link>https://sjs851009.github.io/categories/</link>
     <description>Recent content in Categories on Junseok&#39;s Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://sjs851009.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on Junseok&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> e3ff4e0 (Add quickstart folder contents)
   </channel>
 </rss>

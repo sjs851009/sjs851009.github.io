@@ -2,31 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Junseok&#39;s Website</title>
+<<<<<<< HEAD
     <link>https://sjs851009.github.io/tags/</link>
+=======
+    <link>http://localhost:1313/tags/</link>
+>>>>>>> e3ff4e0 (Add quickstart folder contents)
     <description>Recent content in Tags on Junseok&#39;s Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate>
+<<<<<<< HEAD
     <atom:link href="https://sjs851009.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blue</title>
       <link>https://sjs851009.github.io/tags/blue/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
       <guid>https://sjs851009.github.io/tags/blue/</guid>
+=======
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blue</title>
+      <link>http://localhost:1313/tags/blue/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/tags/blue/</guid>
+>>>>>>> e3ff4e0 (Add quickstart folder contents)
       <description></description>
     </item>
     <item>
       <title>Green</title>
+<<<<<<< HEAD
       <link>https://sjs851009.github.io/tags/green/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
       <guid>https://sjs851009.github.io/tags/green/</guid>
+=======
+      <link>http://localhost:1313/tags/green/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/tags/green/</guid>
+>>>>>>> e3ff4e0 (Add quickstart folder contents)
       <description></description>
     </item>
     <item>
       <title>Red</title>
+<<<<<<< HEAD
       <link>https://sjs851009.github.io/tags/red/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
       <guid>https://sjs851009.github.io/tags/red/</guid>
+=======
+      <link>http://localhost:1313/tags/red/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/tags/red/</guid>
+>>>>>>> e3ff4e0 (Add quickstart folder contents)
       <description></description>
     </item>
   </channel>

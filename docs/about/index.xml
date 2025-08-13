@@ -2,11 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Junseok&#39;s Website</title>
+<<<<<<< HEAD
     <link>https://sjs851009.github.io/about/</link>
+=======
+    <link>http://localhost:1313/about/</link>
+>>>>>>> e3ff4e0 (Add quickstart folder contents)
     <description>Recent content in About on Junseok&#39;s Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
+<<<<<<< HEAD
     <atom:link href="https://sjs851009.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> e3ff4e0 (Add quickstart folder contents)
   </channel>
 </rss>

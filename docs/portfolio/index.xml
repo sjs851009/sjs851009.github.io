@@ -2,11 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio on Junseok&#39;s Website</title>
+<<<<<<< HEAD
     <link>https://sjs851009.github.io/portfolio/</link>
+=======
+    <link>http://localhost:1313/portfolio/</link>
+>>>>>>> e3ff4e0 (Add quickstart folder contents)
     <description>Recent content in Portfolio on Junseok&#39;s Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
+<<<<<<< HEAD
     <atom:link href="https://sjs851009.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> e3ff4e0 (Add quickstart folder contents)
   </channel>
 </rss>
