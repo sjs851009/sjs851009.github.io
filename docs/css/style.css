@@ -1,19 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;500;700&display=swap');
+
+body {
+    font-family: 'Times New Roman', 'Noto Serif KR', Times, serif;
+}
+
 .site-title {
-    color: #2c3e50; /* Your custom color (e.g., dark gray) */
-    font-family: 'Times New Roman', Times, serif; /* Or any font you want */
-    text-decoration: none;  /* Removes underline */
+    color: #2c3e50;
+    text-decoration: none;
     font-weight: bold;
-    /*font-size: 2rem; */ /* Optioinal: resize the tilte */
+    /* font-size: 2rem; */
 }
 
 .site-title:hover {
-    color: #555; /* Optional: hover color */
+    color: #555;
 }
 
 .menu {
     list-style: none;
     display: flex;
-    gap: 20px; /* spacing between items */
+    gap: 20px;
     padding: 0;
     margin: 0;
     align-items: center;
@@ -21,7 +26,7 @@
 
 .menu li a {
     text-decoration: none;
-    color: #333; /* or whatever color you prefer */
+    color: #333;
     font-weight: 500;
 }
 
