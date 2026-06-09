@@ -1,18 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;500;700&display=swap');
-
-body {
-    font-family: 'Times New Roman', 'Noto Serif KR', Times, serif;
-}
-
 .site-title {
-    color: #2c3e50;
+    color: #111;
     text-decoration: none;
     font-weight: bold;
     /* font-size: 2rem; */
 }
 
 .site-title:hover {
-    color: #555;
+    color: #333;
 }
 
 .menu {
@@ -26,12 +20,13 @@ body {
 
 .menu li a {
     text-decoration: none;
-    color: #333;
+    color: #111;
     font-weight: 500;
 }
 
 .menu li a:hover {
-    color: #0077cc;
+    color: #333;
+    background: #eceee8;
 }
 
 .main-nav {
